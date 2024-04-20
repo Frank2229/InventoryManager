@@ -1,0 +1,7 @@
+.root {
+    -fx-background-color: linear-gradient(to right, #61D8DE, #FFFFFF);
+}
+
+.menu-header {
+    -fx-font-size: 20;
+}
